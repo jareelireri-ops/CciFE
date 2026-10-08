@@ -1,0 +1,61 @@
+{
+  "hash": "192e0d64",
+  "configHash": "5ac024ef",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "247cdfa2",
+  "optimized": {
+    "@phosphor-icons/react": {
+      "src": "../../frontend/node_modules/@phosphor-icons/react/dist/index.es.js",
+      "file": "@phosphor-icons_react.js",
+      "fileHash": "cd75ce22",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../frontend/node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "3f57829a",
+      "needsInterop": false
+    },
+    "gsap/ScrollTrigger": {
+      "src": "../../frontend/node_modules/gsap/ScrollTrigger.js",
+      "file": "gsap_ScrollTrigger.js",
+      "fileHash": "09e44a5d",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../frontend/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "c1e9f83d",
+      "needsInterop": true
+    },
+    "react-calendar": {
+      "src": "../../frontend/node_modules/react-calendar/dist/index.js",
+      "file": "react-calendar.js",
+      "fileHash": "47332676",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../frontend/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "b589c0fe",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../frontend/node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "8bb63ce5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-W6GYXAOM": {
+      "file": "chunk-W6GYXAOM.js"
+    },
+    "chunk-CC4JH6QG": {
+      "file": "chunk-CC4JH6QG.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
