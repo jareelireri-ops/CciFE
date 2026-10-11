@@ -8,10 +8,10 @@ const Footer = () => {
       <div className="footer-grid">
         <div className="footer-left">
           <h4>Light Sanctuary</h4>
-          <p style={{ margin: 0 }}>© {new Date().getFullYear()} All Rights Reserved. Toll-Station, Thika Road.</p>
+          <p style={{ margin: 0 }}>© {new Date().getFullYear()} All Rights Reserved. Toll-Station, Thika Road. 0722461386</p>
         </div>
         <div className="footer-right">
-          <span className="footer-link" onClick={() => navigate('/prayers')}>Get Help</span>
+          <span className="footer-link" onClick={() => navigate('/prayers')}>Get help</span>
           <span className="footer-link" onClick={() => navigate('/giving')}>Support Us</span>
           
           {/* Discrete Settings Access Point */}
